@@ -9,3 +9,5 @@ import scipy
 sample1 = np.random.normal(0,1,5)
 plt.plot(sample1)
 plt.show()
+
+a=2+2
